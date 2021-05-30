@@ -232,6 +232,7 @@
     <string name="rearrange_playing_queue_instruction">Rearrange the playing queue by dragging a song from its track number.</string>
     <string name="library">Library</string>
     <string name="folders">Folders</string>
+    <string name="timer">Timer</string>
     <string name="saved_playlist_to">Saved playlist to %s.</string>
     <string name="failed_to_save_playlist">Failed to save playlist (%s).</string>
     <string name="saved_x_playlists_to_x">Saved %1$d playlists to %2$s.</string>
@@ -275,7 +276,9 @@
     <string name="app_shortcut_last_added_short">Last added</string>
     <string name="playlist_is_empty">Playlist is empty</string>
     <string name="playing_notification_description">The playing notification provides actions for play/pause etc.</string>
+    <string name="timer_notification_description">Provides timer information</string>
     <string name="playing_notification_name">Playing notification</string>
+    <string name="timer_notification_name">Timer notification</string>
     <string name="only_the_first_5_colors_available">Only the first 5 colors are available in the free version.</string>
     <string name="black_theme_is_a_pro_feature">The black theme is Phonograph Pro feature.</string>
     <string name="sleep_timer_is_a_pro_feature">Sleep timer is a Phonograph Pro feature</string>
@@ -310,4 +313,13 @@
     <string name="finish_current_music_sleep_timer">Finish last song</string>
     <string name="dialog_ringtone_title">Set ringtone</string>
     <string name="dialog_ringtone_message">Allow phonograph to modify audio settings</string>
+
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="reset">RESET</string>
+    <string name="sensitivity">Sensitivity</string>
+    <string name="sensor">Use Sensor</string>
+    <string name="colon">:</string>
+    <string name="timer_msg">Oops, please select some non-zero duration for timer.</string>
+    <string name="stop_msg">Turning off music…</string>
 </resources>

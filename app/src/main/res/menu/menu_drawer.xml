@@ -23,6 +23,16 @@
 
 
     <group
+        android:id="@+id/navigation_drawer_menu_category_timer"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_timer"
+            android:icon="@drawable/ic_action_bar"
+            android:title="@string/timer" />
+    </group>
+
+
+    <group
         android:id="@+id/navigation_drawer_menu_category_other"
         android:checkableBehavior="none">
         <item
